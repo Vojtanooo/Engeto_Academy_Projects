@@ -2,7 +2,7 @@
 Text analyzer
 
 
-Task Description
+Task Description :
 Let's create a program that will perform the following tasks:
 
 Greet or welcome the user to the app
