@@ -44,11 +44,11 @@ password = database_uzivatelu.get(jmeno)
 if jmeno in database_uzivatelu and heslo in password:
     print(ODDELOVAC)
     print("Máme 3 texty k analýze.")
-    vyber = int(input("Zadej číslo od 1 do 3 k výběru: "))
+    vyber = input("Zadej číslo od 1 do 3 k výběru: ")
     print(ODDELOVAC)
-    if vyber == 1:
+    if vyber == "1":
         index = 0
-    elif vyber == 2:
+    elif vyber == "2":
         index = 1
     else:
         index = 2
