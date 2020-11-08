@@ -18,3 +18,5 @@ exit the program,
 When searching cars, customer should be able to aply multiple conditions and he should be able to choose how to compare entered value and database value.
 
 When renting cars, the program shall check if that car is availible, if yes then print some message and the move ID of that car form not_rented file to rented file.
+
+edit: First use of modul Tkinter and make simple GUI.
