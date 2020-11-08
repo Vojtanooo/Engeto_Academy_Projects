@@ -12,10 +12,10 @@ Ask the user to select among the three texts stored in the variable TEXTS.
 
 Calculate the following statistics for the selected text:
 
-number of words in total
-number of words starting with capital letter
-number of uppercase words
-number of lowercase words
-number of numeric-only words (e.g. 100, not 100N)
+number of words in total,
+number of words starting with capital letter,
+number of uppercase words,
+number of lowercase words,
+number of numeric-only words (e.g. 100, not 100N),
 
 Create a bar chart depicting the frequencies of word lengths in the text.
