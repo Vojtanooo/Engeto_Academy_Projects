@@ -9,4 +9,4 @@ Projects to pass Engeto academy
 4.  Car database and first use of tkinter and make simple GUI
 
 [
-![N|Solid](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Youtube2_colored_svg-128.png)](http://www.youtube.com/watch?v=4RKcIy_Ihok)
+![](https://w7.pngwing.com/pngs/426/941/png-transparent-youtube-logo-youtube-text-trademark-logo.png)](http://www.youtube.com/watch?v=4RKcIy_Ihok)
