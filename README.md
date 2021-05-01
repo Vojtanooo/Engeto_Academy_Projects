@@ -8,4 +8,4 @@ Projects to pass Engeto academy
 3.  Web scraping by BeautifulSoup
 4.  Car database and first use of tkinter and make simple GUI
 [
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjdB5idttrtpfZkhv3Dz20jvA14SXgOCOKQiBT6_tnEyagCBi91sEJMTU8X6eLxzb5dQ&usqp=CAU)](http://www.youtube.com/watch?v=4RKcIy_Ihok)
+![](https://cdn.freebiesupply.com/logos/large/2x/youtube-2-logo-black-and-white.png)](http://www.youtube.com/watch?v=4RKcIy_Ihok)
